@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi I'm Samuel Calderon 👋
+
+<p> I´m a developer from Colombia.</p>
 
 <!--
 **xdSAMUbx/xdSAMUbx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
