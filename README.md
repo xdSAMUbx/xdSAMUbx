@@ -7,6 +7,7 @@
 </div>
 <div>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 <!--
 **xdSAMUbx/xdSAMUbx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
