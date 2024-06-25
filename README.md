@@ -1,6 +1,8 @@
 ## Hi I'm Samuel Calderon 👋
 
-<p> I´m a developer from Colombia.</p>
+<div>
+  <p> I´m a student of cadastral and geodesy engineering from district university francisco josé de caldas, but an appasionate for programming and maths. Currently I use Python and PostgreSQL</p>
+</div>
 
 <!--
 **xdSAMUbx/xdSAMUbx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
