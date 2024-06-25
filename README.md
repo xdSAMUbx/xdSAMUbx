@@ -1,7 +1,10 @@
 ## Hi I'm Samuel Calderon 👋
 
 <div>
-  <p> I´m a student of cadastral and geodesy engineering from district university francisco josé de caldas, but an appasionate for programming and maths. Currently I use Python and PostgreSQL</p>
+  <p> I´m a student of cadastral and geodesy engineering from district university francisco josé de caldas, but an appasionate for programming and maths.</p>
+</div>
+<div>
+  <p> Currently I use Python and PostgreSQL, also im learning more about web development using frameworks like Django and FastAPI</p>
 </div>
 
 <!--
