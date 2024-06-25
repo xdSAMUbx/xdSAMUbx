@@ -2,9 +2,8 @@
 
 <div>
   <p> I´m a student of cadastral and geodesy engineering from district university francisco josé de caldas, but an appasionate for programming and maths.</p>
-</div>
-<div>
   <p> Currently I use Python and PostgreSQL, also im learning more about web development using frameworks like Django and FastAPI</p>
+  <p> I´ve been working on a geodesy proyect on python to make easy some exams for people on my carreer.</p>
 </div>
 
 <!--
