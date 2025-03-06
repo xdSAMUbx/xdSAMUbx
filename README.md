@@ -1,9 +1,12 @@
 ## Hi I'm Samuel Calderon 👋
 
 <div>
-  <p> I'm a student of cadastral and geodesy engineering from District University Francisco José de Caldas, but an appasionate for programming and maths. Currently I used Python and PostgreSQL, also I'm learning more about web development using frameworks like Django and FastAPI. Trying to improve my backend resources but doesn't leaving my frontend </p>
-  <p> I've been working on a geodesy proyect on python to make easy some exams for people on my carreer.</p>
-  <p>Currently I'm learning JavaScript and basics of statistics to develop my carreer as Spacial Data Analyst 📈, Geoportal Developer or something that joins my carreer with programming.🌎</p>
+  <p>I am a student of cadastral engineering and geodesy at the Universidad Distrital Francisco José de Caldas, but passionate about programming and mathematics. I am currently using Python and PostgreSQL, I am         also learning more about statistical development with the implementation of the R language.</p>
+
+<p>I have been working on a geodesy project in python to facilitate some exams for people in my career.</p>
+
+<p>I am currently learning fundamentals of statistics to develop my career as a Spatial Data Analyst and/or Geodesist.</p>
+
 </div>
 <div>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
