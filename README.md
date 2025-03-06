@@ -11,7 +11,7 @@
 <div>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'>
+  <img src='https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white'>
 </div>
 <!--
 **xdSAMUbx/xdSAMUbx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
