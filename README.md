@@ -1,7 +1,7 @@
 ## Hi I'm Samuel Calderon 👋
 
 <div>
-  <p> I'm a student of cadastral and geodesy engineering from district university francisco josé de caldas, but an appasionate for programming and maths. Currently I used Python and PostgreSQL, also I'm learning more about web development using frameworks like Django and FastAPI. Trying to improve my backend resources but doesn't leaving my frontend </p>
+  <p> I'm a student of cadastral and geodesy engineering from District University Francisco José de Caldas, but an appasionate for programming and maths. Currently I used Python and PostgreSQL, also I'm learning more about web development using frameworks like Django and FastAPI. Trying to improve my backend resources but doesn't leaving my frontend </p>
   <p> I've been working on a geodesy proyect on python to make easy some exams for people on my carreer.</p>
   <p>Currently I'm learning JavaScript and basics of statistics to develop my carreer as Spacial Data Analyst 📈, Geoportal Developer or something that joins my carreer with programming.🌎</p>
 </div>
