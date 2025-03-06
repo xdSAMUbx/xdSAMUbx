@@ -3,9 +3,9 @@
 <div>
   <p>I am a student of cadastral engineering and geodesy at the Universidad Distrital Francisco José de Caldas, but passionate about programming and mathematics. I am currently using Python and PostgreSQL, I am         also learning more about statistical development with the implementation of the R language.</p>
 
-<p>I have been working on a geodesy project in python to facilitate some exams for people in my career.</p>
+<p>I have been working on a geodesy project in python to facilitate some exams for people in my career.🧑‍💻</p>
 
-<p>I am currently learning fundamentals of statistics to develop my career as a Spatial Data Analyst and/or Geodesist.</p>
+<p>I am currently learning fundamentals of statistics to develop my career as a Spatial Data Analyst and/or Geodesist.🌎</p>
 
 </div>
 <div>
